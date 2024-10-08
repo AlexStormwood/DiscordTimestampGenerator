@@ -6,4 +6,4 @@ Should look like this:
 
 ![](./docs/ExampleScreenshot001.png)
 
-[Demo website available here.](https://alexstormwood.com/DiscordTimestampGenerator/src/index.html)
+[Demo website available here.](https://alexstormwood.github.io/DiscordTimestampGenerator/src/index.html)
