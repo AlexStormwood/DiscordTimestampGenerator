@@ -7,8 +7,8 @@ td {
 
 body {
     background-color: #2C2F33;
-;
     font-family: "Roboto", sans-serif;
+    margin: 0;
 }
 
 .heading {
@@ -123,4 +123,25 @@ input[type="datetime-local"]:focus {
 label {
     color: white;
 }
+
+.footer-container {
+    display: flex;
+    justify-content: center;
+    align-items:flex-end;
+    background-color: #7289DA;
+    margin: 2rem 0 0 0;
+}
+
+a:link {
+    text-decoration: none;
+    color: #fff;
+}
+.footer span {
+    text-decoration: none;
+    font-size: 1.2rem;
+}
+
+/* .footer {
+    margin-top: auto;
+} */
 
