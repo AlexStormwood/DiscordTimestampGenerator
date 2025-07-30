@@ -4,6 +4,6 @@ Lil demo project to show how JavaScript can be used to generate Discord timestam
 
 Should look like this:
 
-![](./docs/ExampleScreenshot001.png)
+![](./docs/ExampleScreenshot002.png)
 
 [Demo website available here.](https://alexstormwood.github.io/DiscordTimestampGenerator/src/index.html)
